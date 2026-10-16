@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "glue-vispy-viewers",
+  "versions": [
+    {
+      "commit": "9b2aa91361204b4b7fcdb618e8f884584c0d0269",
+      "tag": "",
+      "parsed_at": "2026-10-16T23:43:07.122915+00:00"
+    }
+  ]
+}
